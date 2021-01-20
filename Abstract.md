@@ -1,4 +1,5 @@
 ## Application Library Engineering Group” Fast track your app development**
+
 1.	Are you looking for Mobile application development?
 2.	Are you worried how to search for a library that can help your app development?
 3.	Are you looking for a community where you can collaborate and contribute?
@@ -6,7 +7,7 @@
 5.	Are you looking for a quick solution to speed up your app development?
 6.	Are you worried that how to integrate the best of different libraries at one place?
 
-Then you are in the right place to start with………. Here is a platform for you………..here it goes….
+  Then you are in the right place to start with………. Here is a platform for you………..here it goes….
 
 In today ever changing technologies for connected device and smartphone gives developers an opportunity across the world to create/innovative solutions/application which can solve important problems for world’s population.  And developer need strong support from community in order to reduce their investment to ease their solution/application development and deployment.
 
